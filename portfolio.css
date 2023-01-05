@@ -115,3 +115,41 @@ main {
     font-size: 20px;
     color: #474747;
 }
+
+
+/* whwt i do styles */
+
+.what-i-do-section {
+    margin-top: 130px;
+}
+
+.what-i-do-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.what-i-do-description {
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+}
+
+.skills-develop {
+    display: flex;
+    align-items: stretch;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+}
+
+.skill {
+    margin-left: 24px;
+    margin: 30px 32px 30px;
+    padding-top: 20px;
+}
+
+.skill-description {
+    margin-top: 20px;
+}
