@@ -72,6 +72,10 @@ header {
     margin-bottom: 30px;
 }
 
+.banner .button {
+    margin-top: 20px;
+}
+
 main {
     max-width: 1140px;
     margin: 0 auto;
@@ -152,4 +156,103 @@ main {
 
 .skill-description {
     margin-top: 20px;
+}
+
+
+/* resume part */
+
+.resume-section {
+    margin-top: 130px;
+}
+
+.resume-experiance {
+    margin-top: 80px;
+}
+
+.resume-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.resume-experiance {
+    display: flex;
+    gap: 80px;
+}
+
+.my-education h4 {
+    font-size: 30px;
+}
+
+.sub-education h6 {
+    font-size: 20px;
+    line-height: 34px;
+    color: #474747;
+    margin-top: 30px;
+}
+
+.sub-education .uv {
+    font-size: 15px;
+    color: #757575;
+    margin-top: 10px;
+}
+
+.sub-education p {
+    color: #757575;
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+.my-experiance h4 {
+    font-size: 30px;
+}
+
+.sub-experiance h6 {
+    font-size: 20px;
+    line-height: 34px;
+    color: #474747;
+    margin-top: 30px;
+}
+
+.sub-experiance .apple {
+    font-size: 15px;
+    color: #757575;
+    margin-top: 10px;
+}
+
+.sub-experiance p {
+    color: #757575;
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+.resume-section .button {
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+/* contract styles */
+
+.part {
+    display: flex;
+}
+
+.contract-section {
+    background: #FFF8F3;
+}
+
+.part-one .contract-title {
+    color: #181818;
+    font-size: 32px;
+}
+
+.part-one .contract-description {
+    color: #474747;
+    font-size: 17px;
+}
+
+.part-two .message-title {
+    color: #181818;
+    font-size: 32px;
 }
