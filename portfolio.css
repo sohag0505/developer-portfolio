@@ -55,6 +55,10 @@ header {
     align-items: center;
 }
 
+.banner .sohag {
+    left: 800px;
+}
+
 .banner-sub-title {
     font-weight: 600;
     font-size: 45px;
@@ -236,6 +240,8 @@ main {
 
 .part {
     display: flex;
+    gap: 80px;
+    margin-top: 100px;
 }
 
 .contract-section {
@@ -250,9 +256,19 @@ main {
 .part-one .contract-description {
     color: #474747;
     font-size: 17px;
+    margin-top: 25px;
 }
 
 .part-two .message-title {
     color: #181818;
     font-size: 32px;
+}
+
+.part-two .form .text-design,
+.email-design,
+.textarea-design {
+    background: #FFFFFF;
+    border-radius: 5px;
+    margin-top: 10px;
+    color: white;
 }
